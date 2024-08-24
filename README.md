@@ -1,4 +1,4 @@
-# Perfil do Robert Santana estudante de Analise e desenvolvimento de sistemas - Escola Estadual presidente Dutra
+# Perfil do Robert Santana estudante de Analise e desenvolvimento de sistemas - Escola Estadual Presidente Dutra
 Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo do desenvolvimento de sistemas, buscando constantemente aprender e contribuir para a comunidade. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
 
 ## Sobre Mim
