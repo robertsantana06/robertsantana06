@@ -1,20 +1,21 @@
-👨‍🎓 Graduação : Análise e Desenvolvimento de sistemas.
+# Perfil do Robert Santana estudante de Analise e desenvolvimento de sistemas - Escola Estadual presidente Dutra
+Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo do desenvolvimento de sistemas, buscando constantemente aprender e contribuir para a comunidade. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
 
-🌱 Atividades Atuais : Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
+## Sobre Mim
 
-•Habilidades
+- 👨‍🎓 **Graduação**: Analise e Desenvolvimento de sistemas.
+- 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
 
-Linguagens de Programação: Java, Python, C#
-Desenvolvimento Web: HTML, CSS, JavaScript, React
-Banco de Dados: MySQL, MongoDB
+## Habilidades
 
-Metodologias: Scrum, Kanban
-Ferramentas: Git, VS Code, Eclipse
+- **Linguagens de Programação:** Java, Python, C#, PHP
+- **Desenvolvimento Web:** HTML, CSS, JavaScript, React
+- **Banco de Dados:** MySQL, MongoDB
+- **Metodologias:** Scrum, Kanban
+- **Ferramentas:** Git, VS Code, Eclipse
 
-•Contato
+## Contato
 
-E-mail: roberthss2016@gmail.com
-
-Twitter:
-
-LinkedIn:
+- **E-mail:** roberthss2016@gmail.com
+- **Twitter:** 
+- **LinkedIn:** 
