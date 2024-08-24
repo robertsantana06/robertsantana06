@@ -12,6 +12,9 @@ Metodologias: Scrum, Kanban
 Ferramentas: Git, VS Code, Eclipse
 
 •Contato
+
 E-mail: roberthss2016@gmail.com
+
 Twitter:
+
 LinkedIn:
