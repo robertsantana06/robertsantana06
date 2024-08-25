@@ -22,4 +22,4 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo do des
 
 - **E-mail:** roberthss2016@gmail.com
 - **Twitter:** 
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/robert-santana-817989238
